@@ -1,4 +1,6 @@
-import './style.css'
+import './style.css';
+import './renderElements.js';
+import './getImages.js';
 import { fetchImages, incrementPage } from './getImages.js';
 import { renderImages } from './renderElements.js';
 
